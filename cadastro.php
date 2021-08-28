@@ -14,8 +14,8 @@
         <div class="content first-content">
             <div class="first-column">
                 <h2 class="title title-primary">Bem-Vindo de Volta</h2>
-                <p class="description description-primary">Para continuar conectado</p>
-                <p class="description description-primary">por favor, faça login com suas informações pessoais</p>
+                <p class="description description-primary">Para continuar conectado, por favor,</p>
+                <p class="description description-primary">faça login com suas informações pessoais</p>
                 <button id="signin" class="btn btn-primary">entrar</button>
             </div>    
             <div class="second-column">
@@ -104,6 +104,7 @@
                 
                     <a class="password" href="#">esqueceu sua senha?</a>
                     <button class="btn btn-second">entrar</button>
+                    <button style="padding: 10px 10px;" class="btn btn-second">login sem cadastro</button>
                 </form>
             </div><!-- second column -->
         </div><!-- second-content -->
